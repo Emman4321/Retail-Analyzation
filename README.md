@@ -1,6 +1,6 @@
 # Retail-Analyzation
 
-# Retail Store Sales Analysis
+## Retail Store Sales Analysis
 Name: Emmanuel Fatungase
 
 Project Type: Data Cleaning & Visualization
