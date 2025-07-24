@@ -2,12 +2,17 @@
 
 # Retail Store Sales Analysis
 Name: Emmanuel Fatungase
+
 Project Type: Data Cleaning & Visualization
+
 Tools Used: Excel (Pivot Tables, Charts), Google Sheets
+
 Client/Context: Simulated project for EF Digital Services showcasing sales insights from ~1,000 retail transactions
+
 Date Completed: June 2025
 
-Objective
+Objective:
+
 Analyze a comprehensive retail dataset (~1,000 transactions) to identify key trends in product performance, discount effectiveness, marketing strategy, and regional sales behavior. Clean the dataset, create pivot tables, and generate actionable visualizations and recommendations.
 
 Data Preparation
